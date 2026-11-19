@@ -9,6 +9,8 @@ Mac, Linux and Windows, driven by your keyboard and by your AI tools.
 
 [hopterm.com](https://hopterm.com) · [Docs](https://hopterm.com/docs/)
 
+<img src="demo.webp" alt="Hop in use: terminals, files, a streamed app and search across five machines" width="900">
+
 </div>
 
 ---
